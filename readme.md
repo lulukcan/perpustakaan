@@ -43,7 +43,7 @@ Aplikasi Perpustakan Onlen yang dibuat oleh <a href="https://github.com/lulukcan
 
 1. **Clone Repository di dalam folder ```xampp/htdocs/```**
 ```bash
-git clone https://github.com/arifintajul4/app-perpus.git
+git clone https://github.com/lulukcan/perpustakaan/
 ```
 
 2. **Buka ```localhost/phpmyadmin``` lalu buat database dengan nama ```app-perpus``` dan import file ```app-perpus.sql```**
