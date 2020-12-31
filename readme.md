@@ -1,7 +1,7 @@
 <h1 align="center">Selamat datang di App Perpus! 👋</h1>
 
-![Admin Panel](https://github.com/arifintajul4/app-perpus/blob/main/admin-panel.PNG?raw=true)
-![User Interface](https://github.com/arifintajul4/app-perpus/blob/main/user-panel.PNG?raw=true)
+![Admin Panel](https://github.com/lulukcan/perpustakaan/blob/master/user.PNG?raw=true)
+![User Interface](https://github.com/lulukcan/perpustakaan/blob/master/admin-panel.PNG?raw=true)
 
 ### 🤔 Apa itu App Perpus?
 Aplikasi Perpustakan Onlen yang dibuat oleh <a href="https://github.com/lulukcan"> Luluk Ari Candra </a>. **AppPerpus adalah agar siswa dapat dengan mudah melakukan peminjaman buku dan agar pihak perpustakan mudah untuk mencatat dan megolah transaksi peminjaman maupun pengembalian buku**
